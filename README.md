@@ -1,9 +1,11 @@
 # Discord Music Bot for Docker
 
-## Usage for Linux
+## Setup for Linux
 The bot can be started with one command. Docker and docker-compose have to be installed on the system. Navigate into the root directory of the files and issue ```docker-compose up -d --build```.
 
-## Other Info
+---
+
+### Other Info
 Taken from [here](https://github.com/Just-Some-Bots/MusicBot)
 
 [![GitHub stars](https://img.shields.io/github/stars/Just-Some-Bots/MusicBot.svg)](https://github.com/Just-Some-Bots/MusicBot/stargazers)

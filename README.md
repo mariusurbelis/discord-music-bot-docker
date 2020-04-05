@@ -3,6 +3,8 @@
 ## Setup for Linux
 The bot can be started with one command. Docker and docker-compose have to be installed on the system. Navigate into the root directory of the files and issue ```docker-compose up -d --build```.
 
+Before running add your bot token to the ```config/options.ini``` file and configure other settings following the [tutorial](https://just-some-bots.github.io/MusicBot/using/configuration/) or reading the comments provided in the ```options.ini``` file.
+
 ---
 
 ### Other Info

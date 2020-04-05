@@ -1,0 +1,9 @@
+version: "3"
+services:
+  musicbot:
+    build: .
+    container_name: musicbot
+    hostname: musicbot
+    network_mode: "host"
+    volumes:
+      - ./config:/bot/config
